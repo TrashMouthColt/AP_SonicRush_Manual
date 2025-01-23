@@ -107,4 +107,4 @@ Items that are part of the multiworld in this iteration of the Manual are:
     - So far only Blaze IF Blaze_Story is enabled
   - Stage Unlocks
   - Junk Items
-    - So far only a placeholder junk item called "10 Points" will be sent out, however in future iterations there will be more (not that they do anything because you cant actually recieve them but just to make the log less boring)
+    - So far only a placeholder junk item called "10 Points" will be sent out, however in future iterations there will be more (not that they do anything because you cant actually receive them but just to make the log less boring)
